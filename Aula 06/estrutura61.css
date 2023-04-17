@@ -1,0 +1,27 @@
+body{
+    font-family: verdana, arial, sans-serif;
+    font-size: medium; 
+    text-align:center;
+    background-color: lightsteelblue;
+}
+
+h1{
+    text-align: center;
+    padding-top:10px;
+    padding-right:30px; 
+    padding-bottom: 0.25em;
+    padding-left:20%;
+    background-color:rgb(62, 209, 197);
+    border: 2px solid blueviolet;
+}
+    
+
+p {
+    text-align: justify;
+    padding-top:10px;
+    padding-right:30px; 
+    padding-bottom: 2em;
+    padding-left:20%;
+    background-color:rgb(62, 209, 197);
+    border: 2px solid blueviolet;
+}
