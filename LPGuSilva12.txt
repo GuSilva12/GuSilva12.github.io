@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="99017">
+    <meta name="description" content="landing page">
+    <meta name="Keywords" content="landing page, HTML5, CSS">
+    <title>Landing Page</title>
+</head>
+    
+<body>
+    
+</body>
+</html>
